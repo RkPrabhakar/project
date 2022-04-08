@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697687252313",
+    "project_id": "prerna-gati-ae32c",
+    "storage_bucket": "prerna-gati-ae32c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697687252313:android:0d32e1488443f871170048",
+        "android_client_info": {
+          "package_name": "com.tech.prernagati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697687252313-kjbh30gaehtuhr93mi1vp2mal4kd41lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqC4c7wFP8yZbCtjRAbgNVVG-5f4cCPw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697687252313-kjbh30gaehtuhr93mi1vp2mal4kd41lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
